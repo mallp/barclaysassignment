@@ -1,5 +1,5 @@
 # barclaysassignment
-
+uri for h2 database view : http://localhost:8081/h2-ui/
 #Select query
 
 SELECT * FROM TRADES ;
